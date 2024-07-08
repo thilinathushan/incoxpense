@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "844893913067",
+    "project_id": "incoxpense-a3a80",
+    "storage_bucket": "incoxpense-a3a80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844893913067:android:5129a0fab13a2b67c7a3ae",
+        "android_client_info": {
+          "package_name": "com.example.incoxpense"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844893913067-f5i3bh18049ptk6vitv4kr1dnd77sfks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLs1QZVqD4C0dl1vWan6Pl4RdeQjpBG5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844893913067-f5i3bh18049ptk6vitv4kr1dnd77sfks.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "844893913067-2j98u8mf1n3djocla5ukumv8uh0c2l9n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.incopense"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

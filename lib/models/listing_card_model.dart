@@ -1,0 +1,93 @@
+class ListingCardModel {
+  List displayNameData = [
+    "Nimal Perera",
+    "Sunil Fernando",
+    "Chandana Silva",
+    "Roshan Bandara",
+    "Kumari Jayasuriya",
+    "Lalith Perera",
+    "Gayan Wijesinghe",
+    "Tharanga Perera",
+    "Shanika De Silva",
+    "Harsha Wickramasinghe",
+    "Sarath Kumara",
+    "Priyantha Jayasinghe",
+    "Manjula Kaluarachchi",
+    "Pradeep Madushanka",
+    "Sanduni Perera",
+    "Kasun Rathnayake",
+    "Ravindra Silva",
+    "Udaya Kumara",
+    "Samanthi Gunawardena",
+    "Mahesh Perera"
+  ];
+
+  List jobNameData = [
+    "Plumbing Leak Fix",
+    "Electrical Wiring",
+    "Carpentry Repair",
+    "Metal Welding",
+    "House Cleaning",
+    "Plumbing Installation",
+    "AC Repair",
+    "Roof Repair",
+    "Gardening Service",
+    "Painting Job",
+    "Plumbing Leak Fix",
+    "Electrical Repair",
+    "Carpentry Assembly",
+    "Metal Fabrication",
+    "Office Cleaning",
+    "Plumbing Inspection",
+    "AC Installation",
+    "Roof Installation",
+    "Landscape Gardening",
+    "Interior Painting"
+  ];
+
+  List priceData = [
+    "2500",
+    "3000",
+    "3500",
+    "4000",
+    "2000",
+    "4500",
+    "5000",
+    "5500",
+    "1500",
+    "3000",
+    "2500",
+    "3200",
+    "3700",
+    "4200",
+    "1800",
+    "4600",
+    "5100",
+    "5600",
+    "1600",
+    "3100"
+  ];
+
+  List vendorCategory = [
+    "Labor",
+    "Labor",
+    "Labor",
+    "Labor",
+    "Service",
+    "Labor",
+    "Labor",
+    "Labor",
+    "Service",
+    "Labor",
+    "Labor",
+    "Labor",
+    "Labor",
+    "Labor",
+    "Service",
+    "Labor",
+    "Labor",
+    "Labor",
+    "Service",
+    "Labor"
+  ];
+}
